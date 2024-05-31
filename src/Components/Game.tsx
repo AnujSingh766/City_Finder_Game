@@ -1,4 +1,3 @@
-// Game.tsx
 import React, { useState } from 'react';
 import Map from './Map';
 import { cities } from '../data/cities'; // Assume cities data is exported from a file named cities.ts
